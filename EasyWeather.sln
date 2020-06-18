@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeather.Android", "EasyWeather.Android\EasyWeather.Android.csproj", "{67878D9A-8098-41C8-9215-309AF15C701E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeather", "EasyWeather\EasyWeather.csproj", "{C20D8F47-1F5E-45DD-945B-FFA5DBB66419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67878D9A-8098-41C8-9215-309AF15C701E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67878D9A-8098-41C8-9215-309AF15C701E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67878D9A-8098-41C8-9215-309AF15C701E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67878D9A-8098-41C8-9215-309AF15C701E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20D8F47-1F5E-45DD-945B-FFA5DBB66419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20D8F47-1F5E-45DD-945B-FFA5DBB66419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20D8F47-1F5E-45DD-945B-FFA5DBB66419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20D8F47-1F5E-45DD-945B-FFA5DBB66419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
